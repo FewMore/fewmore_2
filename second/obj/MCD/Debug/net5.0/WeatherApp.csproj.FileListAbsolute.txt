@@ -1,0 +1,5 @@
+C:\Laverna\WeatherApp\WeatherApp\obj\MCD\Debug\net5.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Laverna\WeatherApp\WeatherApp\obj\MCD\Debug\net5.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laverna\WeatherApp\WeatherApp\obj\MCD\Debug\net5.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Laverna\WeatherApp\WeatherApp\obj\MCD\Debug\net5.0\WeatherApp.AssemblyInfo.cs
+C:\Laverna\WeatherApp\WeatherApp\obj\MCD\Debug\net5.0\WeatherApp.csproj.CoreCompileInputs.cache
